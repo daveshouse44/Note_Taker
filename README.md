@@ -12,8 +12,8 @@
   * [Questions?](#Questions?)
   
   ## Screenshots
-  ![Note Taker Demo One](Assets\11-express-homework-demo-01.png?raw=true "Note Taker Demo 1")
-  ![Note Taker Demo Two](Assets\11-express-homework-demo-02.png?raw=true "Note Taker Demo 2")
+  ![Note Taker Demo One](Assets/11-express-homework-demo-01.png?raw=true "Note Taker Demo 1")
+  ![Note Taker Demo Two](Assets/11-express-homework-demo-02.png?raw=true "Note Taker Demo 2")
 
   ## Installation 
   Required dependencies to be installed for application functionality: npm i
